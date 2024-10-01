@@ -1,9 +1,5 @@
-Aquí tienes un ejemplo de un archivo README.md para tu blog de recetas:
 
-
----
-
-Blog de Recetas
+Blog de Recetas Haurane
 
 Este proyecto es un blog de recetas hecho con React, CSS y un servidor JSON para la gestión de datos. Los usuarios pueden explorar diferentes recetas, ver los detalles de cada una y añadir nuevas recetas.
 
