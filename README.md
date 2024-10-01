@@ -29,8 +29,8 @@ Instalación
 
 1. Clonar el repositorio:
 
-git clone https://github.com/usuario/blog-recetas.git
-cd blog-recetas
+git clone
+https://github.com/GabrielHaurane/Blog-de-Recetas.git
 
 
 2. Instalar las dependencias:
